@@ -25,3 +25,5 @@ An interactive data visualization dashboard analyzing creature traits, diets, te
 3. 
 ## Screenshot
 <img width="1331" height="704" alt="image" src="https://github.com/user-attachments/assets/bab1b6c8-eed4-4c6a-994b-403bdc252aac" />
+
+<img width="1325" height="741" alt="image" src="https://github.com/user-attachments/assets/ccc34df4-ce57-4acb-8c5f-04eb75116de2" />
